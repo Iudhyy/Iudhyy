@@ -1,6 +1,6 @@
  <a href="https://beacons.ai/Iudhyy">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Iudhyy&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iudhyy&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Iudhyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iudhyy&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
